@@ -87,7 +87,7 @@ df
 
 ---
 
-##SQL QUERY FOR ALL FLIGHTS LEAVING *FROM* WATERLOO
+## SQL QUERY FOR ALL FLIGHTS LEAVING *FROM* WATERLOO
 
 We use the pandasql library to run this query - **you maybe required to install this library from the cmd prompt if it is not present in your python installation**
 
